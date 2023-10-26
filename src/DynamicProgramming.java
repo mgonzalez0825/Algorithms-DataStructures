@@ -203,6 +203,7 @@ public static int rainWater(int[] heights){
         //       output = input.charAt(i) + output;
         // }
     System.out.println("hello");
+        System.out.println("world");
     return output;
     }
 
